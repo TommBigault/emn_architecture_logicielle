@@ -12,6 +12,19 @@ import pckg.CasLitteral;
 import pckg.EtatAddition;
 import pckg.ExpressionLA;
 
+/*
+ * La methode principale est info
+ * 		elle prend en argument une Class
+ * 		et retourne une HashMap
+ * 
+ * PS1 : Pour voir ce que contient la HashMap,
+ * 			aller voir la methode
+ * PS2 : Pour voir comment acceder aux valeurs
+ * 			d'une HashMap, voir methode main
+ * 
+ * @author David
+ *
+ */
 public class InfoFinder {
 	
 	/**
